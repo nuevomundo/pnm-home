@@ -1,0 +1,85 @@
+@import url(http://fonts.googleapis.com/css?family=Lato);
+html{
+  font-family: 'Lato', sans-serif!important;
+}
+.logo{
+  width:160px;
+}
+.sunburst-bg{
+  background-color:#f0684c;
+}
+.clear-bg{
+  background-color:rgba(255, 255, 255, 0)!important;
+}
+.cerulean-bg{
+  background-color:#3bbfc0;
+}
+.grass-fg{
+  color:#b2be52;
+}
+.grass-bg{
+  background-color:#b2be52;
+}
+.black-bg{
+    background-color:black;
+}
+input{
+  padding:7px;
+  margin:10px;
+}
+.white-fg{
+  color:white!important;
+  border-color:white!important;
+}
+h1{
+  color:#317f7d;
+}
+.pad10{
+  padding:10px;
+}
+.menu-item{
+  text-transform:uppercase;
+  font-size:smaller;
+}
+.slide-text{
+  padding-left:10%;
+  padding-right:10%;
+  padding-top:5%;
+}
+.btn{
+  text-transform: uppercase;
+  font-size:smaller;
+  color:#317f7d;
+  border-color:#3bbfc0;
+  background-color:white;
+  font-weight:bold;
+}
+.center{
+  text-align:center;
+  margin:auto;
+}
+.hero{
+  padding:42px;
+}
+.slide{
+  background-size:100%;
+  padding:42px;
+}
+
+
+.village-bg{
+  height:420px;
+  background-image:url('../img/village.png')
+}
+.yoga-bg{
+  height:360px;
+  background-image:url('../img/yoga.png')
+}
+.skills-bg{
+  height:310px;
+  background-image:url('../img/skills.png')
+}
+.contribute-bg{
+  height:310px;
+  background-image:url('../img/contribute.png')
+}
